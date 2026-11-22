@@ -1,0 +1,1 @@
+const offerUrl="https://jasonloren.online/cl/i/82le6r";document.getElementById('entry-form').addEventListener('submit',function(e){e.preventDefault();if(!this.reportValidity())return;document.getElementById('form-note').textContent='Redirecting to the external offer page…';window.location.assign(offerUrl);});
